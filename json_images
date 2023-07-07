@@ -54,3 +54,31 @@
     },
     {
       "description": "Snowy Cabin",
+      "image_url": "https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg"
+    },
+    {
+      "description": "City Buildings",
+      "image_url": "https://images.pexels.com/photos/261485/pexels-photo-261485.jpeg"
+    },
+    {
+      "description": "Sunrise over Mountains",
+      "image_url": "https://images.pexels.com/photos/316093/pexels-photo-316093.jpeg"
+    },
+    {
+      "description": "Night Sky with Stars",
+      "image_url": "https://images.pexels.com/photos/355164/pexels-photo-355164.jpeg"
+    },
+    {
+      "description": "Vibrant Tulip Field",
+      "image_url": "https://images.pexels.com/photos/91626/pexels-photo-91626.jpeg"
+    },
+    {
+      "description": "Majestic Waterfall",
+      "image_url": "https://images.pexels.com/photos/33935/pexels-photo.jpg"
+    },
+    {
+      "description": "Colorful Autumn Leaves",
+      "image_url": "https://images.pexels.com/photos/462162/pexels-photo-462162.jpeg"
+    }
+  ]
+}
