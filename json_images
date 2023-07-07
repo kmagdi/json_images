@@ -1,0 +1,56 @@
+{
+  "images": [
+    {
+      "description": "Mountain Landscape",
+      "image_url": "https://images.pexels.com/photos/372560/pexels-photo-372560.jpeg"
+    },
+    {
+      "description": "Beach Sunset",
+      "image_url": "https://images.pexels.com/photos/221604/pexels-photo-221604.jpeg"
+    },
+    {
+      "description": "Cityscape at Night",
+      "image_url": "https://images.pexels.com/photos/289649/pexels-photo-289649.jpeg"
+    },
+    {
+      "description": "Autumn Forest",
+      "image_url": "https://images.pexels.com/photos/237127/pexels-photo-237127.jpeg"
+    },
+    {
+      "description": "Waterfall in the Woods",
+      "image_url": "https://images.pexels.com/photos/1049623/pexels-photo-1049623.jpeg"
+    },
+    {
+      "description": "Snowy Mountains",
+      "image_url": "https://images.pexels.com/photos/208623/pexels-photo-208623.jpeg"
+    },
+    {
+      "description": "Sunny Field",
+      "image_url": "https://images.pexels.com/photos/541487/pexels-photo-541487.jpeg"
+    },
+    {
+      "description": "Colorful Hot Air Balloons",
+      "image_url": "https://images.pexels.com/photos/267335/pexels-photo-267335.jpeg"
+    },
+    {
+      "description": "Golden Gate Bridge",
+      "image_url": "https://images.pexels.com/photos/360142/pexels-photo-360142.jpeg"
+    },
+    {
+      "description": "Tropical Beach",
+      "image_url": "https://images.pexels.com/photos/1624066/pexels-photo-1624066.jpeg"
+    },
+    {
+      "description": "Green Forest Path",
+      "image_url": "https://images.pexels.com/photos/134064/pexels-photo-134064.jpeg"
+    },
+    {
+      "description": "Starlit Sky",
+      "image_url": "https://images.pexels.com/photos/209037/pexels-photo-209037.jpeg"
+    },
+    {
+      "description": "Fields of Lavender",
+      "image_url": "https://images.pexels.com/photos/54553/pexels-photo-54553.jpeg"
+    },
+    {
+      "description": "Snowy Cabin",
